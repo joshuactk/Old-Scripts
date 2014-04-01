@@ -12,7 +12,7 @@ Changes .doc files into .png by batch. Remember to make a special directory for 
 
 ## Html2MD.sh
 
-This one's in development. It turns html files into markdown files, even the images in their image folders. Remember to make a special directory for the .html files to convert. It uses Aaron's html2text to do the conversion which can be downloaded [here](https://github.com/aaronsw/html2text). The image part is difficult since it needs the whitespaces in the markdown files' image links to be converted to %20, and that's a pain. Feel free to help me fix that.
+This one's in development. It turns html files into markdown files, even the images in their image folders. Remember to make a special directory for the .html files to convert. It uses Aaron's [html2text](https://github.com/aaronsw/html2text) to do the conversion. The image part is difficult since it needs the whitespaces in the markdown files' image links to be converted to %20, and that's a pain. Feel free to help me fix that.
 
 ## Url2MD.sh
 
